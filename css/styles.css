@@ -8,13 +8,13 @@ ul.list > li{
     border-bottom: 1px solid grey;
     list-style-type: none;
 }
-a{
+li a{
     color:green
 }
-a:link{
+li a:link{
     color: red
 }
-a:hover{
+li a:hover{
     color: pink
 }
 ul > li:first-child::first-letter{
